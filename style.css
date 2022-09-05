@@ -35,22 +35,22 @@ body {
 }
 
 .carousel .card-1 {
-    background: #ed1c24;
+    background: url(images/clear.gif);
 }
 
 .carousel .card-2 {
-    background: #0072bc;
+    background: url(images/clouds.gif);
 }
 
 .carousel .card-3 {
-    background: #39b54a;
+    background: url(images/fog.gif);
 }
 
 .carousel .card-4 {
-    background: #f26522;
+    background: url(images/rain.gif);
 }
 
 .carousel .card-5 {
-    background: #630460;
+    background: url(images/snow.gif);
 }
 
